@@ -1,0 +1,34 @@
+					CASE DIAGRAM
+
+1.1
+   1: Name of Actors-
+      - Account Holder
+       -Cur_ICENTURIAN
+       -Sav_ICENTURIAN
+       -Email System
+
+2: Why is the Email System considered as an actor for this system?
+       -Because every information send to Email there it needs an actor to check them.
+
+3: How would the above diagram be different if the data sources were designed as part of the application?
+       -Yes, the diagram will be changed
+
+4: Name the use cases that can be invoked by Account Holder.
+       -Login
+       -View Account Summary
+       -View Statements
+       -View Account Details
+       -Request Address Change
+       -Transfer Funds
+       -Create Destination Account
+       -Activate Destination Account
+
+5: Which use case has extension points?
+       -Create Destination Account
+       -Activate Destination Account
+    
+     Extended use cases
+       -Transfer Funds
+
+6: Does this online system allow the use to pay insurance premiums? If yes, which is the use case? If no, how can the diagram be changed to include that?
+      -Yes, Transfer Funds

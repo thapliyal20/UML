@@ -1,0 +1,11 @@
+			Lab 4. Some More Dynamic View Diagrams – State Chart Diagrams
+
+4.1
+
+  14.Initial State is the start state and Closed state is the end state in the state chart diagram
+
+  15.open state depicting "State-sub state' relationships.suspended,overdrawn,frozen are the three sub-state relationships 
+
+  16.Initial,closed states and closure are the entry,exit and internal activity.These are the parts of state of these actions/activities
+
+  17.

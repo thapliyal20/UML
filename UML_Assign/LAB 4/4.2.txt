@@ -1,0 +1,7 @@
+4.2
+
+   18.customer,Account are the classes
+
+   19.customerid,firstname,lastname are the attributes of the customer  class
+
+   20.

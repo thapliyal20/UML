@@ -1,0 +1,8 @@
+				Lab 2. Dynamic View Diagrams – Activity Diagrams
+
+2.1   
+   7.The usecase is describing the entering of user and id
+   
+   8.Enter user id & password and dispaly login page are the swimlanes in this diagram
+   
+   9.

@@ -1,0 +1,18 @@
+				Lab 3. Dynamic View Diagrams – Sequence Diagrams
+
+3.1
+
+A:10.Account,coonection,statement are the three objects in the diagram
+
+   11.The external datasource is banksystem and the data is retrieved from customer
+
+   12.
+
+B.
+   1.True
+
+   2.userid and user clearance are the methods implemented by the class ReportingSystem
+
+   3.AvailableReports is the return value of the method getAvailableReports
+
+   4.ReportingSystem is responsible for calling the operation
